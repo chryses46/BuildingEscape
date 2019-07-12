@@ -2,6 +2,7 @@
 
 
 #include "PositionReport.h"
+#include "Gameframework/Actor.h"
 
 // Sets default values for this component's properties
 UPositionReport::UPositionReport()
@@ -19,7 +20,12 @@ void UPositionReport::BeginPlay()
 {
 	Super::BeginPlay();
 
-	// ...
+	
+
+	FString ObjectName = GetOwner()->GetName();
+
+	// MACRO(Log Category, Color of Warning, MACRO (String))
+	UE_LOG(LogTemp, Warning, TEXT("Position report for %s"), *ObjectName);
 	
 }
 
