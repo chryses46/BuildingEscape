@@ -1,0 +1,7 @@
+{
+	"files.exclude": {
+		"/Users/danielfrank/Documents/BuildingEscape/.vscode": true,
+		"/Users/danielfrank/Documents/BuildingEscape/Content": true,
+		"/Users/danielfrank/Documents/BuildingEscape/Intermediate": true
+	}
+}

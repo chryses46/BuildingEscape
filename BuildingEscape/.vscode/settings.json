@@ -1,8 +1,0 @@
-{
-	"files.exclude": {
-		"/Users/danielfrank/Documents/BuildingEscape/BuildingEscape/.vscode": true,
-		"/Users/danielfrank/Documents/BuildingEscape/BuildingEscape/Content": true,
-		"/Users/danielfrank/Documents/BuildingEscape/BuildingEscape/Intermediate": true,
-		"/Users/danielfrank/Documents/BuildingEscape/BuildingEscape/Saved": true
-	}
-}
